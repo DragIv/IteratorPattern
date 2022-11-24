@@ -5,5 +5,5 @@
 # iteratorImplementation
 Проект iteratorImplementation реализует перебор разных элеметов(int, String, double, Arraylist, Array).
 
-#DopPlaylist
+# DopPlaylist
 Проект DopPlaylist - это моя реализация паттерна итератор на примере музыкального плейлиста, который реализует перебор списков и массивов.
